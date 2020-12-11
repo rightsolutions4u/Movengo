@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "eeamO3pHUBTHKDqMIXRfG9lspSBe47h3qvvLNp5XMp5L8BwD4dBA+QP8Qn80ZG/0mTPdZrxKmrRb7Nn/IwF8JQ==",
+  "dgSpecHash": "1mVt3iKokbSKg6ZJJfQfyiH4l0Kk8wgQc0oMbYVT01cZ+aKMtfadCgw8awZyMPrYd4tuY5qWcbPMFvbPIuZAPg==",
   "success": true,
-  "projectFilePath": "F:\\Mars\\FreelanceWork\\Movengo\\MovengoCommon\\MovengoCommon.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\smali\\Movengo\\Movengo\\MovengoCommon\\MovengoCommon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smali\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }

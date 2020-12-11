@@ -1,53 +1,31 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "MovengoCommon/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/MovengoCommon.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MovengoCommon.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "MovengoCommon/1.0.0": {
-      "type": "project",
-      "path": "../MovengoCommon/MovengoCommon.csproj",
-      "msbuildProject": "../MovengoCommon/MovengoCommon.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "MovengoCommon >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\mars\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\smali\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Mars\\FreelanceWork\\Movengo\\MovengoApi\\MovengoApi.csproj",
+      "projectUniqueName": "C:\\Users\\smali\\Movengo\\Movengo\\MovengoApi\\MovengoApi.csproj",
       "projectName": "MovengoApi",
-      "projectPath": "F:\\Mars\\FreelanceWork\\Movengo\\MovengoApi\\MovengoApi.csproj",
-      "packagesPath": "C:\\Users\\mars\\.nuget\\packages\\",
-      "outputPath": "F:\\Mars\\FreelanceWork\\Movengo\\MovengoApi\\obj\\",
+      "projectPath": "C:\\Users\\smali\\Movengo\\Movengo\\MovengoApi\\MovengoApi.csproj",
+      "packagesPath": "C:\\Users\\smali\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\smali\\Movengo\\Movengo\\MovengoApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\mars\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\smali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -58,11 +36,8 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {
-            "F:\\Mars\\FreelanceWork\\Movengo\\MovengoCommon\\MovengoCommon.csproj": {
-              "projectPath": "F:\\Mars\\FreelanceWork\\Movengo\\MovengoCommon\\MovengoCommon.csproj"
-            }
-          }
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -73,6 +48,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -83,6 +59,16 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.10, 3.1.10]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -91,7 +77,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
