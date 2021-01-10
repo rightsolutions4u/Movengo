@@ -1,0 +1,4 @@
+C:\Users\smali\Movengo\Movengo\MovengoCommon\obj\Debug\netcoreapp3.1\MovengoCommon.csprojAssemblyReference.cache
+C:\Users\smali\Movengo\Movengo\MovengoCommon\obj\Debug\netcoreapp3.1\MovengoCommon.AssemblyInfoInputs.cache
+C:\Users\smali\Movengo\Movengo\MovengoCommon\obj\Debug\netcoreapp3.1\MovengoCommon.AssemblyInfo.cs
+C:\Users\smali\Movengo\Movengo\MovengoCommon\obj\Debug\netcoreapp3.1\MovengoCommon.csproj.CoreCompileInputs.cache

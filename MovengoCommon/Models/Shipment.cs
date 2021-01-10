@@ -68,8 +68,8 @@ namespace MovengoCommon.Models
         public DateTime DpartureDate { get; set; }
         [StringLength(2000)]
         public string SpecialInstructions { get; set; }
-        public int UserId { get; set; }
-        public virtual Customer Customers { get; set; }
+        public int Id { get; set; }
+        public virtual Customer Customer { get; set; }
 
 }
 }
