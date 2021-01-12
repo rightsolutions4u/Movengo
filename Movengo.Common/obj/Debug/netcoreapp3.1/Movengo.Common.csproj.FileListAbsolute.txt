@@ -1,0 +1,9 @@
+C:\Users\smali\Movengo\Movengo\Movengo.Common\bin\Debug\netcoreapp3.1\Movengo.Common.deps.json
+C:\Users\smali\Movengo\Movengo\Movengo.Common\bin\Debug\netcoreapp3.1\Movengo.Common.dll
+C:\Users\smali\Movengo\Movengo\Movengo.Common\bin\Debug\netcoreapp3.1\Movengo.Common.pdb
+C:\Users\smali\Movengo\Movengo\Movengo.Common\obj\Debug\netcoreapp3.1\Movengo.Common.AssemblyInfoInputs.cache
+C:\Users\smali\Movengo\Movengo\Movengo.Common\obj\Debug\netcoreapp3.1\Movengo.Common.AssemblyInfo.cs
+C:\Users\smali\Movengo\Movengo\Movengo.Common\obj\Debug\netcoreapp3.1\Movengo.Common.csproj.CoreCompileInputs.cache
+C:\Users\smali\Movengo\Movengo\Movengo.Common\obj\Debug\netcoreapp3.1\Movengo.Common.dll
+C:\Users\smali\Movengo\Movengo\Movengo.Common\obj\Debug\netcoreapp3.1\Movengo.Common.pdb
+C:\Users\smali\Movengo\Movengo\Movengo.Common\obj\Debug\netcoreapp3.1\Movengo.Common.csprojAssemblyReference.cache

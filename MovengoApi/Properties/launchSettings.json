@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "MovengoApi": {
+    "Movengo.Common.Models": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "weatherforecast",

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace MovengoApi.Controllers
+namespace Movengo.Common.Models.Controllers
 {
     [ApiController]
     [Route("[controller]")]

@@ -89,7 +89,7 @@ namespace MovengoUI.Controllers
         //    return null;
 
         //}
-        ////By SM on Nov 12, 2020, remove Index1 action controller
+        //By SM on Nov 12, 2020, remove Index1 action controller
         //public async Task<ActionResult> Index()
         //{
         //    try
@@ -101,24 +101,7 @@ namespace MovengoUI.Controllers
         //        var responseF = await clientF.GetAsync(urlF);
         //        var FeaturedProduct = responseF.Content.ReadAsStringAsync().Result;
         //        load.FeaturedProduct = JsonConvert.DeserializeObject<Product[]>(FeaturedProduct);
-        //        //New Arrivals--field name Recent
-        //        var clientN = new HttpClient();
-        //        var urlN = "https://localhost:44356/api/Products/GetNewProducts";
-        //        var responseN = await clientN.GetAsync(urlN);
-        //        var NewProduct = responseN.Content.ReadAsStringAsync().Result;
-        //        load.NewProduct = JsonConvert.DeserializeObject<Product[]>(NewProduct);
-        //        //Parent Categories
-        //        var ClientPC = new HttpClient();
-        //        var UrlPC = "https://localhost:44356/api/Products/GetParentCategories";
-        //        var responsePC = await ClientPC.GetAsync(UrlPC);
-        //        var ParentC = responsePC.Content.ReadAsStringAsync().Result;
-        //        load.Category = JsonConvert.DeserializeObject<Category[]>(ParentC);
-        //        //Sub-Categories
-        //        var ClientSubCatMen = new HttpClient();
-        //        var urlSubCatMen = "https://localhost:44356/api/Products/GetSubCategories";
-        //        var responseSubCatMen = await ClientSubCatMen.GetAsync(urlSubCatMen);
-        //        var SubCatMen = responseSubCatMen.Content.ReadAsStringAsync().Result;
-        //        load.SubCatMen = JsonConvert.DeserializeObject<Category[]>(SubCatMen);
+        //        
         //        //Customers
         //        if (Request.Cookies["userid"] != null)
         //        {
@@ -155,6 +138,10 @@ namespace MovengoUI.Controllers
         public IActionResult Index()
         {
             return View();
+        }
+        public IActionResult Register()
+        {
+            return View("~/Views/shared/Register.cshtml");
         }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

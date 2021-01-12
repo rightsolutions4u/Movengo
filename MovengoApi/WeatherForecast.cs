@@ -1,6 +1,6 @@
 using System;
 
-namespace MovengoApi
+namespace Movengo.Common.Models
 {
     public class WeatherForecast
     {
