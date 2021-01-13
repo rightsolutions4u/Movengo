@@ -61,7 +61,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MovengoCommon\Movengo.Common.csproj" />
+    <ProjectReference Include="..\Movengo.Common\Movengo.Common.csproj" />
   </ItemGroup>
 
 </Project>

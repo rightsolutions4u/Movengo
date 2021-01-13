@@ -7,3 +7,12 @@ C:\Users\smali\Movengo\Movengo\Movengo.Common\obj\Debug\netcoreapp3.1\Movengo.Co
 C:\Users\smali\Movengo\Movengo\Movengo.Common\obj\Debug\netcoreapp3.1\Movengo.Common.dll
 C:\Users\smali\Movengo\Movengo\Movengo.Common\obj\Debug\netcoreapp3.1\Movengo.Common.pdb
 C:\Users\smali\Movengo\Movengo\Movengo.Common\obj\Debug\netcoreapp3.1\Movengo.Common.csprojAssemblyReference.cache
+F:\Mars\FreelanceWork\Movengo\Movengo.Common\bin\Debug\netcoreapp3.1\Movengo.Common.deps.json
+F:\Mars\FreelanceWork\Movengo\Movengo.Common\bin\Debug\netcoreapp3.1\Movengo.Common.dll
+F:\Mars\FreelanceWork\Movengo\Movengo.Common\bin\Debug\netcoreapp3.1\Movengo.Common.pdb
+F:\Mars\FreelanceWork\Movengo\Movengo.Common\obj\Debug\netcoreapp3.1\Movengo.Common.csprojAssemblyReference.cache
+F:\Mars\FreelanceWork\Movengo\Movengo.Common\obj\Debug\netcoreapp3.1\Movengo.Common.AssemblyInfoInputs.cache
+F:\Mars\FreelanceWork\Movengo\Movengo.Common\obj\Debug\netcoreapp3.1\Movengo.Common.AssemblyInfo.cs
+F:\Mars\FreelanceWork\Movengo\Movengo.Common\obj\Debug\netcoreapp3.1\Movengo.Common.csproj.CoreCompileInputs.cache
+F:\Mars\FreelanceWork\Movengo\Movengo.Common\obj\Debug\netcoreapp3.1\Movengo.Common.dll
+F:\Mars\FreelanceWork\Movengo\Movengo.Common\obj\Debug\netcoreapp3.1\Movengo.Common.pdb
