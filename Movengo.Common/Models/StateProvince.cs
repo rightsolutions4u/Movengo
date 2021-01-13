@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 #nullable disable
 
-namespace Movengo.UI
+namespace Movengo.Common
 {
     public partial class StateProvince
     {
